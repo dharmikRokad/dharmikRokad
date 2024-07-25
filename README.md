@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dharmikRokad
-- 👀 I’m interested in developing creoss platform mobile apps using Flutter
-- 🌱 I’m currently learning React native to experience the new world of cross platform apps
+- 👋 Hi, I’m Dharmik Rokad.
+- 👀 I’m interested in developing cross platform mobile apps using Flutter.
+- 🌱 I’m currently learning React native to experience the new world of cross platform apps.
 - 🎈 I'm eager to explore the backend development with node.js to become a full stack mobile app dev.
-- 📫 You can connect with me on <a href="https://www.linkedin.com/in/dharmik-rokad-775000272/">Linked In</a> or simply drop a main on dharmikrokad48@gmail.com
+- 📫 You can connect with me on <a href="https://www.linkedin.com/in/dharmik-rokad-775000272/">Linked In</a> or simply drop a mail on dharmikrokad48@gmail.com.
 - 😄 Pronouns: He/Him
 
 <!---
